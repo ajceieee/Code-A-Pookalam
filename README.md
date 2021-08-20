@@ -1,11 +1,25 @@
+<div>
+    <img src='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/code.jpeg' >
+</div>
 
 
+---
+<br>
+<br>
 
+# Rules
 
-
-
-
-
+* The pookalam design can be made using Python or any scripting language. 
+* The program should not use external assets designed in other applications etc.
+* Place a pull request to submit your entries.
+* Create a directory with your name. It must contain a jpg or png file as output, along with the code needed to generate it.
+* A contestant can submit only one entry.
+* Try to use as minimum dependencies as possible. Any dependencies to run the code must be specified.
+* Plagiarism is strictly prohibited, those submitting plagiarised code will be disqualified.
+* Decision of the organizing committee is final and binding.
+  
+<strong>Last Date: 25th of August 2021.</strong>
+<br>
 
 # GitHub
 Microsoft announced it has reached an agreement to acquire GitHub, the world’s leading software development platform(more than 28 million developers). Together, the two companies will empower developers to achieve more at every stage of the development lifecycle, accelerate enterprise use of GitHub, and bring Microsoft’s developer tools and services to new audiences.
