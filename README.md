@@ -62,7 +62,7 @@ Paste this onto the terminal. You are making the files from your repository avai
         -Code-A-Pookalam
             - images
             - submissions
-              - <your_name>(folder name)
+              - <your username>(folder name)
                 - your_name.py
                 - screenshot.jpeg
     `
