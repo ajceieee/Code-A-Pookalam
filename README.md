@@ -37,13 +37,13 @@
 
 <br>
 
-### Step 2 - Next, goto your profile and find the fork or the copy of the main repository and click the code green icon on your fork.
+### Step 2 - Next, goto your profile and find the fork or the copy of the main repository and click the button 'code' in green colour green on your fork.
 
 <img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/fork-copy.png'>
 
 <br>
 
-### Step 3 - Go to your terminal(You can search up how to access terminal in your system online.), where git is installed (Command Prompt for Windows users).
+### Step 3 - Go to your terminal (You can search up how to access terminal in your system online.), where git is installed (Command Prompt for Windows users). Or you can clone the fork of the repo by downloading the zip file by clicking the 'Download Zip' button, then extract the zip file which you have downloaded and proceed with step 4.
 
 Paste this onto the terminal. You are making the files from your repository available on your computer.
 `git clone https://github.com/<your_username>/Code-A-Pookalam.git`
@@ -57,7 +57,7 @@ Paste this onto the terminal. You are making the files from your repository avai
 
 <br>
 
-### Step 4 -  Go into Code-A-Pookalam and in  `submissions` folder and make a folder with your own github username and inside make a file called <your_name.py> and inside it add your code and commit the file. Also add screenshot of the output in the same folder. After creating the folder the folder struture will be like
+### Step 4 -  Go into Code-A-Pookalam and in  `submissions` folder make a folder with your own github username and inside that folder make a file called <your_name.py> and inside it add your code and commit the file. Also add screenshot of the output in the same folder. After creating the folder the folder struture will be like
     `
         -Code-A-Pookalam
             - images
