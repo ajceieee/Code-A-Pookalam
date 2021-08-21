@@ -71,3 +71,6 @@ Paste this onto the terminal. You are making the files from your repository avai
 <img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/folder.png'>
 
 After making all changes push your code and make a pull request🤗.
+
+### Don't know about github and how to make pull request?
+[click here](https://github.com/FossMec/Practice-Git)
