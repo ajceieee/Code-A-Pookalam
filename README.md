@@ -18,7 +18,11 @@
 
 <br>
 <strong>Last Date: 25th of August 2021.</strong>
+
 <br>
+
+### Don't know about github and how to make pull request?
+[click here](https://github.com/FossMec/Practice-Git#github)
 
 
 > Note: Those who are familliar with github and git can directly
@@ -78,5 +82,3 @@ After making all changes push your code and make a pull request🤗.
 <img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/submitpr.png'>
 
 
-### Don't know about github and how to make pull request?
-[click here](https://github.com/FossMec/Practice-Git#github)
