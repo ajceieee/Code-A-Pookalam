@@ -23,34 +23,51 @@
 
 
 > Note: Those who are familliar with github and git can directly
-> make pull request by forking a copy of the project by following the 
+> make pull request by forking a copy of the project and by following the 
 > below mentioned steps💪.
 
 <br>
 
 # How to Submit 
 
-<br>
-
-## Step 1 - Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+### Step 1 - Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 
 > Forks are copies of a main repository which are available for individual users to edit according to their preferences.
 
-[Fork image](https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/fork.png)
+<img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/fork.png'>
 
 <br>
 
-## Step 2 - Next, goto your profile and find the fork or the copy of the main repository and click the code green icon on your fork.
+### Step 2 - Next, goto your profile and find the fork or the copy of the main repository and click the code green icon on your fork.
 
-[Fork image](https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/fork-copy.png)
+<img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/fork-copy.png'>
 
 <br>
 
-## Step 3 - Go to your terminal(You can search up how to access terminal in your system online.), where git is installed (Command Prompt for Windows users).
+### Step 3 - Go to your terminal(You can search up how to access terminal in your system online.), where git is installed (Command Prompt for Windows users).
 
 Paste this onto the terminal. You are making the files from your repository available on your computer.
 `git clone https://github.com/<your_username>/Code-A-Pookalam.git`
 
+> `Note: git should be installed on your system`
+
+<img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/clone.png'>
+
+
+<img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/clone-terminal.png'>
+
 <br>
 
-## Step 4 -  Go into Code-A-Pookalam and go into `submissions` folder and make a folder with your own github username and inside make a file called <your_name.py> and inside it add your code and commit the file. Also add screenshot of the output in the same folder.
+### Step 4 -  Go into Code-A-Pookalam and in  `submissions` folder and make a folder with your own github username and inside make a file called <your_name.py> and inside it add your code and commit the file. Also add screenshot of the output in the same folder. After creating the folder the folder struture will be like
+    `
+        -Code-A-Pookalam
+            - images
+            - submissions
+              - <your_name>(folder name)
+                - your_name.py
+                - screenshot.jpeg
+    `
+
+<img src ='https://raw.githubusercontent.com/ajceieee/Code-A-Pookalam/main/images/folder.png'>
+
+After making all changes push your code and make a pull request🤗.
